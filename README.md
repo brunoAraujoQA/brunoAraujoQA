@@ -31,12 +31,12 @@ Sou graduado em Sistemas da Informação e possuo inglês técnico.
 ### 📊 GitHub Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoAraujoQA&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ---
 ### 🚀 Linguagens mais utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoAraujoQA&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ---
 ### 📞 Contato
 
